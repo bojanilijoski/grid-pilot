@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/bojan/eclipse/plugins/org.apache.derby.core_10.2.2/derby.jar"/>
+	<classpathentry kind="lib" path="/home/bojan/eclipse/plugins/org.apache.derby.core_10.2.2/derbyclient.jar"/>
+	<classpathentry kind="lib" path="/home/bojan/eclipse/plugins/org.apache.derby.core_10.2.2/derbytools.jar"/>
+	<classpathentry kind="lib" path="/home/bojan/eclipse/plugins/org.apache.derby.core_10.2.2/derbynet.jar"/>
+	<classpathentry kind="lib" path="/home/bojan/db-derby-10.8.2.2-bin/lib/derby.jar"/>
+	<classpathentry kind="lib" path="/home/bojan/db-derby-10.8.2.2-bin/lib/derbyclient.jar"/>
+	<classpathentry kind="lib" path="/home/bojan/db-derby-10.8.2.2-bin/lib/derbynet.jar"/>
+	<classpathentry kind="lib" path="/home/bojan/db-derby-10.8.2.2-bin/lib/derbyrun.jar"/>
+	<classpathentry kind="lib" path="/home/bojan/db-derby-10.8.2.2-bin/lib/derbytools.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

@@ -1,0 +1,7 @@
+Apache Derby Network Server - 10.2.2.0 - (485682) started and ready to accept connections on port 1527 at 2012-03-05 12:51:13.059 GMT 
+----------------------------------------------------------------
+2012-03-05 12:51:30.706 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.2.2.0 - (485682): instance c013800d-0135-e2e9-e211-00000000002e
+on database directory C:\Users\Bojan\workspace\gridProject\data\sample  
+
+Database Class Loader started - derby.database.classpath=''
